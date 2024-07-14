@@ -1,0 +1,82 @@
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\dbPetShop.mdf
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\dbPetShop_log.ldf
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashCustomer.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashProduct.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerModule.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Dashboard.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductModule.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserForm.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserModule.resources
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+C:\Users\acer\source\repos\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\dBconnect.mdf
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\dBconnect_log.ldf
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\AForge.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\AForge.Video.DirectShow.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\AForge.Video.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\QRCoder.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\zxing.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\zxing.presentation.dll
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\AForge.xml
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\AForge.Video.xml
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\zxing.pdb
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\zxing.xml
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\zxing.presentation.pdb
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\bin\Debug\zxing.presentation.xml
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.AssemblyReference.cache
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.SuggestedBindingRedirects.cache
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.ResolveComReference.cache
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.BillDetailForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashCustomer.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CashProduct.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CategoryForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.CustomerModule.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Dashboard.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ProductModule.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.QRLoginForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ScheduleDetailForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ScheduleForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ScheduleModule.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.SplashForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserForm.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.UserModule.resources
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.GenerateResource.cache
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.csproj.CopyComplete
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+D:\Lap Trinh Truc Quan\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
